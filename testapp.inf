@@ -1,0 +1,26 @@
+[update]
+newversion=1,1,0,0
+localversion=testapp.exe
+descr=New version is ready for download
+
+[action]
+query=Proceed with automatic update ?
+
+[whatsnew]
+file=http://www.tmssoftware.com/wu/whatsnew.txt
+
+[eula]
+file=http://www.tmssoftware.com/wu/license.txt
+
+[files]
+count=1
+
+[file1]
+url=http://www.tmssoftware.com/wu/TESTAPP.EXE_NEW
+descr=Application 
+filesize=623616
+
+[application]
+appupdate=1
+appname=testapp.exe
+appcomps=testapp.exe_NEW

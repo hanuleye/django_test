@@ -1,0 +1,11 @@
+TWebUpdate v2.1 © 2009 TMS software 
+for Delphi & C++Builder 
+
+What's new in TWebUpdate v2.1 :
+
+- New : Delphi 2010 & C++Builder 2010 support added
+- New : Support for rich text What's new & EULA
+- New : {doc} prefix
+- New : support for Turkish language added
+- Improved : logging
+- Various smaller improvements & fixes

@@ -7,16 +7,16 @@ descr=New version is ready for download
 query=Proceed with automatic update ?
 
 [whatsnew]
-file=http://www.tmssoftware.com/wu/whatsnew.txt
+file=https://raw.githubusercontent.com/hanuleye/django_test/master/whatsnew.txt
 
 [eula]
-file=http://www.tmssoftware.com/wu/license.txt
+file=https://raw.githubusercontent.com/hanuleye/django_test/master/license.txt
 
 [files]
 count=1
 
 [file1]
-url=http://www.tmssoftware.com/wu/TESTAPP.EXE_NEW
+url=https://raw.githubusercontent.com/hanuleye/django_test/master/TESTAPP.EXE_NEW
 descr=Application 
 filesize=623616
 

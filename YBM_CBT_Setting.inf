@@ -18,7 +18,7 @@ count=1
 [file1]
 url=https://raw.githubusercontent.com/hanuleye/django_test/master/YBM_CBT_Setting.EXE_NEW
 descr=Application 
-filesize=1551872
+filesize=1557598
 
 [application]
 appupdate=1
